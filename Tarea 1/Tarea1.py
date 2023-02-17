@@ -1,7 +1,7 @@
-# Aaron Salmeron Gamboa 2020168052
-# Jostin Mendez Castro 2020034338
+#Aaron Salmeron Gamboa 2020168052
+#Jostin Mendez Castro 2020034338
 
-import math  # Libreria de matematicas para añadir irracional PI
+import math  #Libreria de matematicas para añadir irracional PI
 
 
 def divide_string(frase, operacion):
